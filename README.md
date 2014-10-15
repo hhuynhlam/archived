@@ -1,9 +1,9 @@
 Archived
 ========
 
-Archived Projects
+##Archived Projects
 
-Contents:
+###Contents:
 1. (Java) Set API written with TDD
 2. (Java) Intro to Java: SmileyFaces, part 1/5
 3. (Java) Intro to Java: SmileyAnimation, part 2/5
